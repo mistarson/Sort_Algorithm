@@ -5,11 +5,11 @@
 
 using namespace std;
 
-bool compare( string a, string b) {
+bool compare(string a, string b) {
     return (a + b > b + a) ? true : false;
 }
 
-int main() {      
+int main() {
     vector<int> array = { 1,5,2,6,3,4,7,10 };
     string answer = "";
     vector<string> strings;
@@ -26,6 +26,6 @@ int main() {
     if (answer[0] == '0')
         answer = "0";
     cout << answer;
-    
-  
+
+
 }

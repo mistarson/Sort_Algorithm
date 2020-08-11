@@ -147,6 +147,7 @@
     <ClCompile Include="Sortinside.cpp" />
     <ClCompile Include="STL_Sort1.cpp" />
     <ClCompile Include="STL_Sort2.cpp" />
+    <ClCompile Include="가장 큰 수.cpp" />
     <ClCompile Include="소스.cpp" />
     <ClCompile Include="수 정렬하기.cpp" />
   </ItemGroup>

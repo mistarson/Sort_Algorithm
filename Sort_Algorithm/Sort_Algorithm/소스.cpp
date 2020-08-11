@@ -23,5 +23,4 @@ int main() {
         answer += i;
     }
     cout << answer;
-    cout << endl;
 }
